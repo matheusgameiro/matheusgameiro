@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Gameiro</h1>
-<h3 align="center">Data Analytics Enthusiast and passioante for tech.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusgameiro&label=Profile%20views&color=0e75b6&style=flat" alt="matheusgameiro" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matheusgameiro" alt="matheusgameiro" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">Data Analytics Enthusiast and passionate for tech.</h3>
 
 - 🔭 I’m currently working on **Kroma Energia**
 
@@ -21,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matheus a. gameiro de moura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus a. gameiro de moura" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheus-a-gameiro-de-moura-72500716a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus a. gameiro de moura" height="30" width="40" /></a>
 <a href="https://instagram.com/matheusgameiro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matheusgameiro_" height="30" width="40" /></a>
 </p>
 
