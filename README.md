@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matheugameiro/matheugameiro/raw/main/assets/github-v2.gif" alt="Hi, I'm Matheus a passionate Data Scientist from Brazil 🇧🇷">
+  <img src="https://github.com/matheusgameiro/matheusgameiro/raw/main/assets/github-v2.gif" alt="Hi, I'm Matheus a passionate Data Scientist from Brazil 🇧🇷">
 </p>
 
 - 🔭 I’m currently working on **Kroma Energia**
