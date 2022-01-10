@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Gameiro</h1>
-<h3 align="center">Data Analytics Enthusiast and passioante for tech.</h3>
+<h3 align="center">Data Analytics Enthusiast and passionate for tech.</h3>
 
 - 🔭 I’m currently working on **Kroma Energia**
 
