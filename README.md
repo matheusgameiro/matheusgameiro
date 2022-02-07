@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Gameiro</h1>
 <h3 align="center">Data Scientist Junior.</h3>
 
-- 🔭 I’m currently working on **Kroma Energia**
 
 - 🌱 I’m currently learning **Python, SQL, Tableau/PowerBI, Machine Learning and Deploy**
 
 - 👯 I’m looking to collaborate on **data science/BI projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/matheusgameiro/Data-Analytics-Portfolio](https://github.com/matheusgameiro/Data-Analytics-Portfolio)
-
-- 💬 Ask me about **Technology, Data Science, ethics, Machine Learning, IA**
-
+- 
 - 📫 How to reach me **https://www.linkedin.com/in/matheus-a-gameiro-de-moura-72500716a/**
 
 <h3 align="left">Connect with me:</h3>
