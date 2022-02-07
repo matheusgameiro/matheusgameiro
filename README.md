@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Gameiro</h1>
-<h3 align="center">Data Analytics Enthusiast and passionate for tech.</h3>
+<h3 align="center">Data Scientist Junior.</h3>
 
 - 🔭 I’m currently working on **Kroma Energia**
 
-- 🌱 I’m currently learning **Python, SQL, Tableau/Qliksense, R**
+- 🌱 I’m currently learning **Python, SQL, Tableau/PowerBI, Machine Learning and Deploy**
 
 - 👯 I’m looking to collaborate on **data science/BI projects**
 
