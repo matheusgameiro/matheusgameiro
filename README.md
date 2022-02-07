@@ -4,7 +4,7 @@
 ### About Me:
 
 <p align='center'>
-    <img src='post-data-science.jpeg'<
+    <img src='digital-brain.jpg'<
 </p>
 
 - 🌱 I’m currently learning **Python, SQL, Tableau/PowerBI, Machine Learning and Deploy**
