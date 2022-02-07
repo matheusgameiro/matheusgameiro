@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus Gameiro</h1>
 <h3 align="center">Data Scientist Junior.</h3>
 
+### About Me:
+
+<p align='center'>
+    <img src='post-data-science.jpeg'<
+</p>
 
 - 🌱 I’m currently learning **Python, SQL, Tableau/PowerBI, Machine Learning and Deploy**
 
