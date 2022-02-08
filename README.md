@@ -7,7 +7,7 @@
 
 ### About Me:
 
-- 👨🏻‍💻 Eletronic engineer graduted from POLI-UPE, my first experience with data (as many people 😂) was with Microsoft Excel, at that point i realized i have ability and vocation for data. I'm passionated for data and tech and i am actually looking for a jr position in a company, where i will be able to show my skills, solve business problems and help the bussiness grow.
+- 👨🏻‍💻 Eletronic engineer graduted from POLI-UPE, my first experience with data (as many people 😂) was with Microsoft Excel, at that point i realized i have ability and vocation for data. I'm passionated for data and tech and i am actually looking for a jr position in a company, where i will be able to show my skills, **solve business problems and help the bussiness grow.**
 
  With all of that, I developed this skills at this moment:
  
