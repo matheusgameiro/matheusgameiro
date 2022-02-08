@@ -13,10 +13,10 @@
  
  **Data Science Tools:**
  
-    **Python**: pandas, numpy, matplotlib, plotly.express, seaborn, scikit-learn, pycaret.
-    **Data Collect and Storage Modeling:** SQL and WebScraping.
-    **Machine Learning Modeling:** Regressão, Classificação, Multiclass and Timeseries.
-    **Data Visualization and Deploy:** Streamlit, Power BI, Tableau
+ ***Python**: pandas, numpy, matplotlib, plotly.express, seaborn, scikit-learn, pycaret.
+ ***Data Collect and Storage Modeling:** SQL and WebScraping.
+ ***Machine Learning Modeling:** Regressão, Classificação, Multiclass and Timeseries.
+ ***Data Visualization and Deploy:** Streamlit, Power BI, Tableau
 
 **Contact Me:**
 
