@@ -21,8 +21,6 @@
  
  ***Data Visualization and Deploy:** Streamlit, Power BI, Tableau
 
-**Contact Me:**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheus-a-gameiro-de-moura-72500716a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus a. gameiro de moura" height="30" width="40" /></a>
