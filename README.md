@@ -15,9 +15,9 @@
  
  * **Python**: pandas, numpy, matplotlib, plotly.express, seaborn, scikit-learn, pycaret.
  
- * **Data Collect and Storage Modeling:** SQL and WebScraping.
+ * **Data Collect and Storage Modeling:** SQL.
  
- * **Machine Learning Modeling:** Regressão, Classificação, Multiclass and Timeseries.
+ * **Machine Learning Modeling:** Regressão, Classificação.
  
  * **Data Visualization and Deploy:** Streamlit, Power BI, Tableau
 
