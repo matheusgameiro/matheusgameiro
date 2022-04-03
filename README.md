@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Gameiro</h1>
-<h3 align="center">Data Analyst/Scientist Junior.</h3>
+<h3 align="center">Business Intelligence/ETL Developer.</h3>
 
 <p align='center'>
     <img src='digital-brain.jpg'<
