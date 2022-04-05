@@ -7,20 +7,20 @@
 
 ### About Me:
 
-- 👨🏻‍💻 Eletronic engineer graduted from POLI-UPE, my first experience with data (as many people 😂) was with Microsoft Excel, at that point i realized i have ability and vocation for data. I'm passionated for data and tech and i am actually looking for a jr position in a company, where i will be able to show my skills, **solve business problems and help the bussiness grow.**
+- passionate about data, analytics, reading and healthy lifestyle.
 
- With all of that, I developed this skills at this moment:
- 
- **Data Science Tools:**
- 
- * **Python**: pandas, numpy, matplotlib, plotly.express, seaborn, scikit-learn, pycaret.
- 
- * **Data Collect and Storage Modeling:** SQL, Pentaho
- 
- * **Machine Learning Modeling:** Regressão, Classificação.
- 
- * **Data Visualization and Deploy:** Streamlit, Power BI, Tableau
+👨🏻‍💻Eletronic engineer graduated from the University of the State of Pernambuco (UPE) working in the data world as a business analyst and data analyst. I'm able to translate **data into valuable insights impacting the decision-making of people and companies.**
 
+I have experience working with projects envolving:
+- Python (pandas, numpy, plotly, scikit-learn, pycaret, jupyter notebook, streamlit, AIRFLOW)
+- MySQL, SQL Server and Datalakes (database/data warehouse design and manipulation)
+- Excel/Google Sheets
+- SQL Queries, DAX, Power Query
+- Pentaho (ETL/ELT) also building OLAPs using MDX Language
+- Power BI (dashboards and data viz)
+
+I appreciate good communication, also i'm able to work in english.
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheus-a-gameiro-de-moura-72500716a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus a. gameiro de moura" height="30" width="40" /></a>
